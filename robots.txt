@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-ao575k.johnsonboibeats.com/sitemap.xml
